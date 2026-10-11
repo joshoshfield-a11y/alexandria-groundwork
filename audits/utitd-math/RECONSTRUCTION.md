@@ -14,17 +14,22 @@ Section 1.1 is titled "The Master Equation of State Space" but **no equation is 
 
 S_f / S_a / S_d are defined in prose (observed / absorptive / divergent). No state space is declared, no inner product, no dynamics coupling the three. The intuition (current state + dissipation + possibility space) is a legitimate modeling decomposition — it matches how control engineers already split a problem — but as written it is a vocabulary, not a calculus. The "Infinitely Layered Recursive Tensor Calculus (L^∞)" is named, never constructed.
 
-## 3. The 72 operators (§II) — inventory in `operators-audit.csv`
+## 3. The 72 operators (§II) — full pass in `operators-spec-v1.md`, verdicts in `operators-audit.csv`
 
-First-pass textual triage of the "Mathematical Mapping" column:
+Completed 2026-10-10: every operator graded against the OPERATOR_SPEC checklist (conventional analogue, delta assessment, grade, hardening requirement).
 
-- **18 map to established concepts** (Boltzmann/Shannon entropy, Newton's 2nd law, Metcalfe's law, adjacency matrix, eigenvector centrality, integration, Q factor, natural frequency, impulse function, torque, heat transfer, current density, electric/magnetic fields, fluid pressure, voltage, recursion/iterated systems). These are the candidates for REPRODUCES-ESTABLISHED — but note: *naming* the concept is not *deriving* the equivalence. Each still needs the OPERATOR_SPEC treatment (cores/OPERATOR_SPEC.md) to show the mapping is more than a label swap.
-- **54 are symbolic-only**: the "mapping" is a symbol (Ω, φ, !!, ∞, ⊙) or a suggestive phrase ("Paracausal Logic", "Omega Override", "Egregore Induction", "Resonant Matrix") with no definition. Grade: ANALOGY or SCHEMATIC.
-- Mirror operators 73–144 are mentioned in one line ("function as the dissipative counterparts") and never defined. Grade: UNTESTED / absent.
+- **23 REPRODUCES-ESTABLISHED** — straight relabels of known concepts (Boltzmann/Shannon entropy, ω₀, δ(t), e^{kt}, parity, IFS, F=ma, current density, inertia, electrical load, voltage, viral K-factor, eigenvector centrality, adjacency matrix, pressure-driven flow, heat transfer, torque, critical-path scheduling, Metcalfe's law, token-weighted voting…). Useful as vocabulary; not new physics. Note: naming the concept was not deriving the equivalence — each still needs its spec fields filled to be more than a label swap.
+- **29 SCHEMATIC** — named but undefined: integrals with no integrand, matrices with no entries, couplings with no equations, fixed points with no map.
+- **20 ANALOGY** — technical terms borrowed with no bridge: wavefunction collapse with no Hilbert space, superconductivity for "zero information loss", G for information attraction, half-life inverted to mean preservation, Dyson spheres as operators.
+- **0 DEFINED, 0 UNTESTED** — nothing in the table currently carries a derivation; nothing was left unexamined.
+- Mirror operators 73–144 are mentioned in one line ("function as the dissipative counterparts") and never defined. Grade: absent.
+
+Corrections to the earlier auto-tag: op 3's "Recursion Constant (φ)" is not a real concept, and op 55's "exponential utility" misstates Metcalfe's law (it's quadratic) — the auto-tag column is superseded by `reviewer_verdict`.
 
 Notable load-bearing claims needing falsifiers:
-- Op 1 (Primary Observer → "Wavefunction Collapse"): the strongest metaphysical claim in the table; needs an operator definition and a prediction that differs from standard decoherence/measurement theory.
-- Op 61 (Forced Collapse → "Paracausal Logic" → "manifestation of statistically unlikely outcomes"): extraordinary claim, currently zero mechanism. Prime candidate for a preregistered test — or honest relabeling.
+- Op 1 (Primary Observer → "Wavefunction Collapse"): ANALOGY — the load-bearing metaphysical claim of the whole framework, borrowing collapse with no Hilbert space and no Born rule.
+- Op 61 (Forced Collapse → "Paracausal Logic" → "manifestation of statistically unlikely outcomes"): the framework's only explicit paranormal-adjacent empirical claim, zero mechanism. Needs a preregistered statistical test or honest relabeling as metaphysical, out of machinery scope.
+- Op 60 (Negentropy Rate): Maxwell's-demon territory with no work/erasure budget — Landauer's kT ln 2 per bit is the named falsifier (see master-equation-proposal.md §Thermodynamic budget).
 - Op 21 (Resonance Overdrive → "Resonance Catastrophe"): maps to a real phenomenon (resonance as damping → 0); hardening means writing the damping model, not the name.
 
 ## 4. The 13 drivers of [L]_tensor (§III) — grade: SCHEMATIC
