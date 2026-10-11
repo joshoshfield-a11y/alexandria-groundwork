@@ -1,0 +1,44 @@
+diff --git a/Chamber2.py b/Chamber2.py
+index 719b531..79dc595 100644
+--- a/Chamber2.py
++++ b/Chamber2.py
+@@ -18,7 +18,7 @@ from dataclasses import dataclass, asdict
+ from enum import Enum
+ from typing import Optional
+ 
+-from rgh_chamber1_external_measurement import ClaimResult, MeasurabilityFlag
++from Chamber1 import ClaimResult, MeasurabilityFlag
+ 
+ 
+ class FalsifiabilityFlag(Enum):
+@@ -111,7 +111,7 @@ def run_chamber2(chamber1_results: list) -> list:
+ 
+ if __name__ == "__main__":
+     import pandas as pd
+-    from rgh_chamber1_external_measurement import run_chamber1
++    from Chamber1 import run_chamber1
+ 
+     sample_claims = [
+         ("C001", "example.md", "The system aggregates public radio and radar data."),
+diff --git a/Chamber3.py b/Chamber3.py
+index b140e1c..38e1793 100644
+--- a/Chamber3.py
++++ b/Chamber3.py
+@@ -17,7 +17,7 @@ from dataclasses import dataclass, asdict
+ from enum import Enum
+ from typing import Optional
+ 
+-from rgh_chamber1_external_measurement import ClaimResult
++from Chamber1 import ClaimResult
+ 
+ 
+ class ReplicationFlag(Enum):
+@@ -126,7 +126,7 @@ def run_chamber3(chamber1_results: list, claim_texts: dict) -> list:
+ 
+ if __name__ == "__main__":
+     import pandas as pd
+-    from rgh_chamber1_external_measurement import run_chamber1
++    from Chamber1 import run_chamber1
+ 
+     sample_claims = [
+         ("C001", "example.md", "The system aggregates public radio and radar data into a state."),
