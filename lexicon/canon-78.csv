@@ -1,0 +1,79 @@
+idx,pillar,domain,codex_name,technical,lambda,kappa,H_max
+1,Foundational,Set-Theoretic Substrate,Vigil Flame,Projection / Observer Effect,0.708073,1.0,0.871197
+2,Cosmic,Category-Theoretic Morphism,Wavefunction Amplitude,Wavefunction Amplitude,0.826822,1.584963,0.664924
+3,Choral,Graph-Theoretic Node,Amplitude Envelopes,Amplitude Envelopes,0.019915,2.0,0.140962
+4,Transcendent,Information-Theoretic Channel,Binary Systems,Binary Systems,0.57275,2.321928,0.984675
+5,Foundational,Automata-Theoretic State,Spiral Tongue,Recursion,0.919536,2.584963,0.403813
+6,Cosmic,Topological Manifold,Signal Sources,Signal Sources,0.078073,2.807355,0.395353
+7,Choral,Algebraic Group Action,Eigenvalue Dynamics,Eigenvalue Dynamics,0.431631,3.0,0.986471
+8,Transcendent,Probabilistic Field,Reaction Rates,Reaction Rates,0.97883,3.169925,0.147962
+9,Foundational,Computational Complexity Class,Crystal Node,Coherence,0.169842,3.321928,0.657342
+10,Cosmic,Signal-Processing Operator,Summation,Summation,0.295959,3.459432,0.876295
+11,Choral,Thermodynamic Ensemble,Waveforms,Waveforms,0.99998,3.584963,0.000335
+12,Transcendent,Network-Theoretic Hub,Critical Temperatures,Critical Temperatures,0.28791,3.70044,0.866007
+13,Foundational,Set-Theoretic Substrate,Caduceus Flux,Dynamic exchange,0.17654,3.807355,0.67245
+14,Cosmic,Category-Theoretic Morphism,Structural Stability,Structural Stability,0.981303,3.906891,0.134061
+15,Choral,Graph-Theoretic Node,Depth,Depth,0.422874,4.0,0.982768
+16,Transcendent,Information-Theoretic Channel,High-Q Resonators,High-Q Resonators,0.082888,4.087463,0.412275
+17,Foundational,Automata-Theoretic State,Twin Serpents,Parity / Duality,0.924285,4.169925,0.386897
+18,Cosmic,Topological Manifold,Origin Vectors,Origin Vectors,0.563982,4.247928,0.988156
+19,Choral,Algebraic Group Action,Ignition,Ignition,0.022463,4.321928,0.155056
+20,Transcendent,Probabilistic Field,Luminous Flux,Luminous Flux,0.833469,4.392317,0.649707
+21,Foundational,Computational Complexity Class,The Lattice,Metric Tensor,0.699993,4.459432,0.8813
+22,Cosmic,Signal-Processing Operator,Force & Potential Wells,Force & Potential Wells,7.8e-05,4.523562,0.001182
+23,Choral,Thermodynamic Ensemble,Binding Energy,Binding Energy,0.716089,4.584963,0.860725
+24,Transcendent,Network-Theoretic Hub,Singularities,Singularities,0.820072,4.643856,0.679919
+25,Foundational,Set-Theoretic Substrate,Unified Field,Unified Field,0.017517,4.70044,0.127262
+26,Cosmic,Category-Theoretic Morphism,Intersections,Intersections,0.581495,4.754888,0.980751
+27,Choral,Graph-Theoretic Node,Feedback Loops,Feedback Loops,0.914655,4.807355,0.420738
+28,Transcendent,Information-Theoretic Channel,Closed Loops,Closed Loops,0.07339,4.857981,0.378449
+29,Foundational,Automata-Theoretic State,Dawn Spark,Impulse,0.44041,4.906891,0.98973
+30,Cosmic,Topological Manifold,Boundaries,Boundaries,0.976206,4.954196,0.16224
+31,Choral,Algebraic Group Action,Null States,Null States,0.163246,5.0,0.64202
+32,Transcendent,Probabilistic Field,Vacuum Energy,Vacuum Energy,0.304071,5.044394,0.886211
+33,Foundational,Computational Complexity Class,Stellar Seed,Seed States,0.999824,5.087463,0.002452
+34,Cosmic,Signal-Processing Operator,Guiding Principles,Hamiltonian/Jacobi,0.279928,5.129283,0.855353
+35,Choral,Thermodynamic Ensemble,Divergence,Divergence,0.18334,5.169925,0.68733
+36,Transcendent,Network-Theoretic Hub,Unit Vectors,Unit Vectors,0.983625,5.209453,0.12057
+37,Foundational,Set-Theoretic Substrate,Radiant Sun,Energy,0.414141,5.247928,0.978624
+38,Cosmic,Category-Theoretic Morphism,Voltage,Voltage,0.087834,5.285402,0.429199
+39,Choral,Graph-Theoretic Node,Unions,Unions,0.928902,5.321928,0.37001
+40,Transcendent,Information-Theoretic Channel,Quantum Gates,Quantum Gates,0.555194,5.357552,0.991192
+41,Foundational,Automata-Theoretic State,Lunar Veil,Memory,0.025161,5.392317,0.169512
+42,Cosmic,Topological Manifold,Reflection,Reflection,0.840012,5.426265,0.634281
+43,Choral,Algebraic Group Action,Opposition,Opposition,0.691849,5.459432,0.891027
+44,Transcendent,Probabilistic Field,Regeneration,Regeneration,0.000313,5.491853,0.004099
+45,Foundational,Computational Complexity Class,Hexa-Form,Lattice Structures,0.724037,5.523562,0.849892
+46,Cosmic,Signal-Processing Operator,Velocity,Velocity,0.813222,5.554589,0.694682
+47,Choral,Thermodynamic Ensemble,Harmonic Means,Harmonic Means,0.01527,5.584963,0.113989
+48,Transcendent,Network-Theoretic Hub,Chirality,Chirality,0.590215,5.61471,0.976387
+49,Foundational,Set-Theoretic Substrate,Knot of Paradox,Tensor Products,0.909644,5.643856,0.437657
+50,Cosmic,Category-Theoretic Morphism,Angular Momentum,Angular Momentum,0.068841,5.672425,0.361582
+51,Choral,Graph-Theoretic Node,Triadic Stability,Triadic Stability,0.449207,5.70044,0.992543
+52,Transcendent,Information-Theoretic Channel,Global States,Global States,0.973434,5.72792,0.176867
+53,Foundational,Automata-Theoretic State,The Crossing,Path Integrals,0.156757,5.754888,0.626494
+54,Cosmic,Topological Manifold,Mass,Mass,0.312245,5.78136,0.895748
+55,Choral,Algebraic Group Action,Wave Vectors,Wave Vectors,0.99951,5.807355,0.00609
+56,Transcendent,Probabilistic Field,Entropy Maximization,Entropy Maximization,0.272015,5.83289,0.844342
+57,Foundational,Computational Complexity Class,Architect's Seal,Gradients,0.19024,5.857981,0.701973
+58,Cosmic,Signal-Processing Operator,Frequency,Frequency,0.985796,5.882643,0.107523
+59,Choral,Thermodynamic Ensemble,Reflection Matrices,Reflection Matrices,0.405435,5.906891,0.974041
+60,Transcendent,Network-Theoretic Hub,Cyclic Completion,Cyclic Completion,0.09291,5.930737,0.446108
+61,Foundational,Set-Theoretic Substrate,Harmonic Star,Resonance,0.933384,5.954196,0.353168
+62,Cosmic,Category-Theoretic Morphism,Kinetic Bursts,Kinetic Bursts,0.546388,5.97728,0.993782
+63,Choral,Graph-Theoretic Node,Recursive Layering,Recursive Layering,0.028008,6.0,0.184301
+64,Transcendent,Information-Theoretic Channel,Trajectories,Trajectories,0.846448,6.022368,0.618658
+65,Foundational,Automata-Theoretic State,Fractal Bloom,Growth,0.683646,6.044394,0.900373
+66,Cosmic,Topological Manifold,Light,Light Constant,0.000705,6.066089,0.008398
+67,Choral,Algebraic Group Action,Fractal Iteration,Fractal Iteration,0.731914,6.087463,0.838704
+68,Transcendent,Probabilistic Field,Returns,Returns,0.806274,6.108524,0.709201
+69,Foundational,Computational Complexity Class,Hourglass Sigil,Time,0.013176,6.129283,0.101177
+70,Cosmic,Signal-Processing Operator,Cosmic Closure,Cosmic Closure,0.598907,6.149747,0.971586
+71,Choral,Thermodynamic Ensemble,Choral Closure,Choral Closure,0.904505,6.169925,0.45455
+72,Transcendent,Network-Theoretic Hub,Asymptotic Limits,Asymptotic Limits,0.064426,6.189825,0.344771
+73,Foundational,Set-Theoretic Substrate,UNNAMED,,0.45802,6.209453,0.994909
+74,Cosmic,Category-Theoretic Morphism,UNNAMED,,0.970513,6.228819,0.191812
+75,Choral,Graph-Theoretic Node,UNNAMED,,0.150375,6.247928,0.610777
+76,Transcendent,Information-Theoretic Channel,UNNAMED,,0.320478,6.266787,0.9049
+77,Foundational,Automata-Theoretic State,UNNAMED,,0.999041,6.285402,0.011003
+78,Cosmic,Topological Manifold,UNNAMED,,0.264174,6.303781,0.83298
