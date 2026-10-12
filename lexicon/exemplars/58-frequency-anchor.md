@@ -1,15 +1,17 @@
-# Exemplar 1 — ANCHOR: idx 62, "Frequency" (Cosmic D15)
+# Exemplar 1 — ANCHOR: idx 58, "Frequency" (Cosmic D15)
 
 Date: 2026-10-12. This exemplar establishes the ANCHOR outcome:
 the operator reproduces an established concept; the hardening
 writes the standard form, attaches the measurable quantity, and
 admits the relabel with no novelty claimed.
+(Correction 2026-10-12: header idx fixed 62→58 per the canon CSV;
+D15 Frequency sits at the 15th Cosmic index. Content unchanged.)
 
 ## Canon row
 
-- idx 62 · Cosmic · Signal-Processing Operator · codex "Frequency"
+- idx 58 · Cosmic · Signal-Processing Operator · codex "Frequency"
 - Technical (v3.1): oscillation rate, periodicity
-- Placeholder (retired): λ=sin²(62), κ=log₂(63) — scaffold values, no meaning claimed
+- Placeholder (retired): λ=sin²(58)≈0.985796, κ=log₂(59)≈5.882643, H_max≈0.107523 — scaffold values, no meaning claimed
 
 ## Hardened spec
 
