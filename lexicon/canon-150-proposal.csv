@@ -1,0 +1,151 @@
+idx,pillar,domain,codex_name,technical,lambda,kappa,H_max,verdict,grounding,mirror_of
+1,Foundational,Set-Theoretic Substrate,Vigil Flame,Projection / Observer Effect,0.708073,1.0,0.871197,DEFINE-proposed,CONFIRMED,
+2,Cosmic,Category-Theoretic Morphism,Wavefunction Amplitude,Wavefunction Amplitude,0.826822,1.584963,0.664924,ANCHOR,CONFIRMED,
+3,Choral,Graph-Theoretic Node,Amplitude Envelopes,Amplitude Envelopes,0.019915,2.0,0.140962,ANCHOR,CONFIRMED,
+4,Transcendent,Information-Theoretic Channel,Binary Systems,Binary Systems,0.57275,2.321928,0.984675,ANCHOR,CORRECTED,
+5,Foundational,Automata-Theoretic State,Spiral Tongue,Recursion,0.919536,2.584963,0.403813,ANCHOR,CONFIRMED,
+6,Cosmic,Topological Manifold,Signal Sources,Signal Sources,0.078073,2.807355,0.395353,ANCHOR,CONFIRMED,
+7,Choral,Algebraic Group Action,Eigenvalue Dynamics,Eigenvalue Dynamics,0.431631,3.0,0.986471,ANCHOR,CONFIRMED,
+8,Transcendent,Probabilistic Field,Reaction Rates,Reaction Rates,0.97883,3.169925,0.147962,ANCHOR,CONFIRMED,
+9,Foundational,Computational Complexity Class,Crystal Node,Coherence,0.169842,3.321928,0.657342,ANCHOR,CONFIRMED,
+10,Cosmic,Signal-Processing Operator,Summation,Summation,0.295959,3.459432,0.876295,ANCHOR,CONFIRMED,
+11,Choral,Thermodynamic Ensemble,Waveforms,Waveforms,0.99998,3.584963,0.000335,ANCHOR,CONFIRMED,
+12,Transcendent,Network-Theoretic Hub,Critical Temperatures,Critical Temperatures,0.28791,3.70044,0.866007,ANCHOR,CONFIRMED,
+13,Foundational,Set-Theoretic Substrate,Caduceus Flux,Dynamic exchange,0.17654,3.807355,0.67245,ANCHOR,CONFIRMED,
+14,Cosmic,Category-Theoretic Morphism,Structural Stability,Structural Stability,0.981303,3.906891,0.134061,ANCHOR,CORRECTED,
+15,Choral,Graph-Theoretic Node,Depth,Depth,0.422874,4.0,0.982768,ANCHOR,CONFIRMED,
+16,Transcendent,Information-Theoretic Channel,High-Q Resonators,High-Q Resonators,0.082888,4.087463,0.412275,ANCHOR,CORRECTED,
+17,Foundational,Automata-Theoretic State,Twin Serpents,Parity / Duality,0.924285,4.169925,0.386897,ANCHOR,CONFIRMED,
+18,Cosmic,Topological Manifold,Origin Vectors,Origin Vectors,0.563982,4.247928,0.988156,ANCHOR,CONFIRMED,
+19,Choral,Algebraic Group Action,Ignition,Ignition,0.022463,4.321928,0.155056,ANCHOR,CONFIRMED,
+20,Transcendent,Probabilistic Field,Luminous Flux,Luminous Flux,0.833469,4.392317,0.649707,ANCHOR,CONFIRMED,
+21,Foundational,Computational Complexity Class,The Lattice,Metric Tensor,0.699993,4.459432,0.8813,ANCHOR,CONFIRMED,
+22,Cosmic,Signal-Processing Operator,Force & Potential Wells,Force & Potential Wells,7.8e-05,4.523562,0.001182,ANCHOR,CONFIRMED,
+23,Choral,Thermodynamic Ensemble,Binding Energy,Binding Energy,0.716089,4.584963,0.860725,ANCHOR,CONFIRMED,
+24,Transcendent,Network-Theoretic Hub,Singularities,Singularities,0.820072,4.643856,0.679919,ANCHOR,CONFIRMED,
+25,Foundational,Set-Theoretic Substrate,Unified Field,Unified Field,0.017517,4.70044,0.127262,ANCHOR,CONFIRMED,
+26,Cosmic,Category-Theoretic Morphism,Intersections,Intersections,0.581495,4.754888,0.980751,ANCHOR,CONFIRMED,
+27,Choral,Graph-Theoretic Node,Feedback Loops,Feedback Loops,0.914655,4.807355,0.420738,ANCHOR,CORRECTED,
+28,Transcendent,Information-Theoretic Channel,Closed Loops,Closed Loops,0.07339,4.857981,0.378449,ANCHOR,CONFIRMED,
+29,Foundational,Automata-Theoretic State,Dawn Spark,Impulse,0.44041,4.906891,0.98973,ANCHOR,CONFIRMED,
+30,Cosmic,Topological Manifold,Boundaries,Boundaries,0.976206,4.954196,0.16224,ANCHOR,CORRECTED,
+31,Choral,Algebraic Group Action,Null States,Null States,0.163246,5.0,0.64202,ANCHOR,CONFIRMED,
+32,Transcendent,Probabilistic Field,Vacuum Energy,Vacuum Energy,0.304071,5.044394,0.886211,ANCHOR,CORRECTED,
+33,Foundational,Computational Complexity Class,Stellar Seed,Seed States,0.999824,5.087463,0.002452,ANCHOR,CONFIRMED,
+34,Cosmic,Signal-Processing Operator,Guiding Principles,Hamiltonian/Jacobi,0.279928,5.129283,0.855353,ANCHOR,CONFIRMED,
+35,Choral,Thermodynamic Ensemble,Divergence,Divergence,0.18334,5.169925,0.68733,ANCHOR,CORRECTED,
+36,Transcendent,Network-Theoretic Hub,Unit Vectors,Unit Vectors,0.983625,5.209453,0.12057,ANCHOR,CONFIRMED,
+37,Foundational,Set-Theoretic Substrate,Radiant Sun,Energy,0.414141,5.247928,0.978624,ANCHOR,CONFIRMED,
+38,Cosmic,Category-Theoretic Morphism,Voltage,Voltage,0.087834,5.285402,0.429199,ANCHOR,CONFIRMED,
+39,Choral,Graph-Theoretic Node,Unions,Unions,0.928902,5.321928,0.37001,ANCHOR,CONFIRMED,
+40,Transcendent,Information-Theoretic Channel,Quantum Gates,Quantum Gates,0.555194,5.357552,0.991192,ANCHOR,CONFIRMED,
+41,Foundational,Automata-Theoretic State,Lunar Veil,Memory,0.025161,5.392317,0.169512,ANCHOR,CONFIRMED,
+42,Cosmic,Topological Manifold,Reflection,Reflection,0.840012,5.426265,0.634281,ANCHOR,CONFIRMED,
+43,Choral,Algebraic Group Action,Opposition,Opposition,0.691849,5.459432,0.891027,ANCHOR,CONFIRMED,
+44,Transcendent,Probabilistic Field,Regeneration,Regeneration,0.000313,5.491853,0.004099,ANCHOR,CONFIRMED,
+45,Foundational,Computational Complexity Class,Hexa-Form,Lattice Structures,0.724037,5.523562,0.849892,ANCHOR,CONFIRMED,
+46,Cosmic,Signal-Processing Operator,Velocity,Velocity,0.813222,5.554589,0.694682,ANCHOR,CONFIRMED,
+47,Choral,Thermodynamic Ensemble,Harmonic Means,Harmonic Means,0.01527,5.584963,0.113989,ANCHOR,CONFIRMED,
+48,Transcendent,Network-Theoretic Hub,Chirality,Chirality,0.590215,5.61471,0.976387,ANCHOR,CORRECTED,
+49,Foundational,Set-Theoretic Substrate,Knot of Paradox,Tensor Products,0.909644,5.643856,0.437657,ANCHOR,CONFIRMED,
+50,Cosmic,Category-Theoretic Morphism,Angular Momentum,Angular Momentum,0.068841,5.672425,0.361582,ANCHOR,CONFIRMED,
+51,Choral,Graph-Theoretic Node,Triadic Stability,Triadic Stability,0.449207,5.70044,0.992543,ANCHOR,CONFIRMED,
+52,Transcendent,Information-Theoretic Channel,Global States,Global States,0.973434,5.72792,0.176867,ANCHOR,CONFIRMED,
+53,Foundational,Automata-Theoretic State,The Crossing,Path Integrals,0.156757,5.754888,0.626494,ANCHOR,CONFIRMED,
+54,Cosmic,Topological Manifold,Mass,Mass,0.312245,5.78136,0.895748,ANCHOR,CONFIRMED,
+55,Choral,Algebraic Group Action,Wave Vectors,Wave Vectors,0.99951,5.807355,0.00609,ANCHOR,CONFIRMED,
+56,Transcendent,Probabilistic Field,Entropy Maximization,Entropy Maximization,0.272015,5.83289,0.844342,ANCHOR,CONFIRMED,
+57,Foundational,Computational Complexity Class,Architect's Seal,Gradients,0.19024,5.857981,0.701973,ANCHOR,CONFIRMED,
+58,Cosmic,Signal-Processing Operator,Frequency,Frequency,0.985796,5.882643,0.107523,ANCHOR,CONFIRMED,
+59,Choral,Thermodynamic Ensemble,Reflection Matrices,Reflection Matrices,0.405435,5.906891,0.974041,ANCHOR,CONFIRMED,
+60,Transcendent,Network-Theoretic Hub,Cyclic Completion,Cyclic Completion,0.09291,5.930737,0.446108,ANCHOR,CONFIRMED,
+61,Foundational,Set-Theoretic Substrate,Harmonic Star,Resonance,0.933384,5.954196,0.353168,ANCHOR,CONFIRMED,
+62,Cosmic,Category-Theoretic Morphism,Kinetic Bursts,Kinetic Bursts,0.546388,5.97728,0.993782,ANCHOR,CONFIRMED,
+63,Choral,Graph-Theoretic Node,Recursive Layering,Recursive Layering,0.028008,6.0,0.184301,ANCHOR,CONFIRMED,
+64,Transcendent,Information-Theoretic Channel,Trajectories,Trajectories,0.846448,6.022368,0.618658,ANCHOR,CONFIRMED,
+65,Foundational,Automata-Theoretic State,Fractal Bloom,Growth,0.683646,6.044394,0.900373,ANCHOR,CONFIRMED,
+66,Cosmic,Topological Manifold,Light,Light Constant,0.000705,6.066089,0.008398,ANCHOR,CONFIRMED,
+67,Choral,Algebraic Group Action,Fractal Iteration,Fractal Iteration,0.731914,6.087463,0.838704,ANCHOR,CONFIRMED,
+68,Transcendent,Probabilistic Field,Returns,Returns,0.806274,6.108524,0.709201,ANCHOR,CORRECTED,
+69,Foundational,Computational Complexity Class,Hourglass Sigil,Time,0.013176,6.129283,0.101177,ANCHOR,CORRECTED,
+70,Cosmic,Signal-Processing Operator,Cosmic Closure,Cosmic Closure,0.598907,6.149747,0.971586,ANCHOR,CONFIRMED,
+71,Choral,Thermodynamic Ensemble,Choral Closure,Choral Closure,0.904505,6.169925,0.45455,SYMBOLIC-ONLY,CONFIRMED,
+72,Transcendent,Network-Theoretic Hub,Asymptotic Limits,Asymptotic Limits,0.064426,6.189825,0.344771,ANCHOR,CORRECTED,
+73,Foundational,Set-Theoretic Substrate,Empty Root,,0.45802,6.209453,0.994909,ANCHOR,CONFIRMED,
+74,Cosmic,Category-Theoretic Morphism,Duality,,0.970513,6.228819,0.191812,ANCHOR,CONFIRMED,
+75,Choral,Graph-Theoretic Node,Sympathetic Resonance,,0.150375,6.247928,0.610777,ANCHOR,CORRECTED,
+76,Transcendent,Information-Theoretic Channel,Channel Capacity,,0.320478,6.266787,0.9049,ANCHOR,CORRECTED,
+77,Foundational,Automata-Theoretic State,Terminal State,,0.999041,6.285402,0.011003,ANCHOR,CONFIRMED,
+78,Cosmic,Topological Manifold,Cosmic Horizon,,0.264174,6.303781,0.83298,ANCHOR,CONFIRMED,
+79,Foundational,Set-Theoretic Substrate,Blind Seer,"Observation blindness, deliberate ignorance, the unmeasured",0.197236,6.321928,0.716366,ANCHOR,Codex v3.1 §11 (named S1); anchor: partial trace over unobserved subsystems (standard open-quantum-systems),1
+80,Cosmic,Category-Theoretic Morphism,Shadow of Wavefunction Amplitude,Amplitude nulling; probability-density cancellation (derived constraint),0.987815,6.339850,0.094955,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: nodes of the wavefunction (standard QM),2
+81,Choral,Graph-Theoretic Node,Shadow of Amplitude Envelopes,Modulation stripping; envelope collapse (derived constraint),0.396759,6.357552,0.969023,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: the unmodulated carrier wave (standard signal processing),3
+82,Transcendent,Information-Theoretic Channel,Shadow of Binary Systems,Two-state nulling; the continuous dual (derived constraint),0.098112,6.375039,0.462983,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: continuous/analog signaling (standard information theory),4
+83,Foundational,Automata-Theoretic State,Ouroboros Bite,"Recursive deadlock, infinite regress without exit",0.937730,6.392317,0.336392,ANCHOR,Codex v3.1 §11 (named S2); anchor: non-terminating recursion (standard computability theory),5
+84,Cosmic,Topological Manifold,Shadow of Signal Sources,Emission suppression; the sink dual of the source (derived constraint),0.537568,6.409391,0.995924,ANCHOR,"Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: source–sink duality, the absorber (standard wave/field theory)",6
+85,Choral,Algebraic Group Action,Shadow of Eigenvalue Dynamics,Spectral decomposition failure (derived constraint),0.031003,6.426265,0.199395,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: defective (non-diagonalizable) matrices (standard linear algebra),7
+86,Transcendent,Probabilistic Field,Shadow of Reaction Rates,Kinetic arrest; rate nulling (derived constraint),0.852776,6.442943,0.602851,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: inhibition / kinetic arrest (standard chemical kinetics),8
+87,Foundational,Computational Complexity Class,Fracture Line,"Coherence breakdown, phase decoherence, shattering",0.675385,6.459432,0.909330,ANCHOR,Codex v3.1 §11 (named S3); anchor: decoherence / loss of phase coherence (standard quantum and classical wave theory),9
+88,Cosmic,Signal-Processing Operator,Shadow of Summation,De-aggregation; failed convergence (derived constraint),0.001253,6.475733,0.013886,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: divergence of series (standard analysis),10
+89,Choral,Thermodynamic Ensemble,Shadow of Waveforms,Morphology nulling; formlessness (derived constraint),0.739719,6.491853,0.827170,ANCHOR,"Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: white noise, the formless signal (standard signal theory)",11
+90,Transcendent,Network-Theoretic Hub,Shadow of Critical Temperatures,Criticality nulling; smooth crossover (derived constraint),0.799230,6.507795,0.723465,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: crossover vs. true phase transition (standard condensed matter),12
+91,Foundational,Set-Theoretic Substrate,Venom Lock,"Flux stagnation, transformation arrest, poisoned flow",0.011233,6.523562,0.088863,ANCHOR,Codex v3.1 §11 (named S4); anchor: arrested transport; exemplar catalyst poisoning (standard chemical kinetics),13
+92,Cosmic,Category-Theoretic Morphism,Shadow of Structural Stability,Equilibrium loss; rigidity failure (derived constraint),0.607567,6.539159,0.966351,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: buckling / structural instability (standard mechanics),14
+93,Choral,Graph-Theoretic Node,Shadow of Depth,Layering nulling; flatness (derived constraint),0.899239,6.554589,0.471403,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: heterarchy / flat organization (McCulloch 1945),15
+94,Transcendent,Information-Theoretic Channel,Shadow of High-Q Resonators,Selectivity nulling; broadening (derived constraint),0.060149,6.569856,0.328034,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: overdamped / low-Q regime (standard oscillator theory),16
+95,Foundational,Automata-Theoretic State,False Mirror,"Parity violation without purpose, broken duality",0.466847,6.584963,0.996826,ANCHOR,Codex v3.1 §11 (named S5); anchor: parity violation / broken duality (standard particle physics),17
+96,Cosmic,Topological Manifold,Shadow of Origin Vectors,Frame collapse; basis failure (derived constraint),0.967445,6.599913,0.207048,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: linear dependence / degenerate frame (standard linear algebra),18
+97,Choral,Algebraic Group Action,Shadow of Ignition,Trigger failure; subthreshold arrest (derived constraint),0.144102,6.614710,0.594882,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: subthreshold failure / misfire (standard combustion and neuroscience),19
+98,Transcendent,Probabilistic Field,Shadow of Luminous Flux,Flux nulling; occlusion (derived constraint),0.328767,6.629357,0.913661,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: occlusion shadows as flux nulls (standard radiometry),20
+99,Foundational,Computational Complexity Class,Void Lattice,"Metric dissolution, connectivity collapse, geometric amnesia",0.998414,6.643856,0.017034,ANCHOR,Codex v3.1 §11 (named S6); anchor: loss of long-range connectivity / percolation breakdown (standard statistical physics),21
+100,Cosmic,Signal-Processing Operator,Shadow of Force & Potential Wells,Attraction nulling; the repulsive dual (derived constraint),0.256406,6.658211,0.821275,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: repulsive potential barriers (standard mechanics / QM),22
+101,Choral,Thermodynamic Ensemble,Shadow of Binding Energy,Cohesion nulling; unbinding (derived constraint),0.204327,6.672425,0.730499,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: dissociation energy / unbinding (standard chemistry and physics),23
+102,Transcendent,Network-Theoretic Hub,Shadow of Singularities,Breakdown nulling; regularity (derived constraint),0.989680,6.686501,0.082905,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: regularity / cosmic censorship (standard general relativity),24
+103,Foundational,Set-Theoretic Substrate,Babel Fall,"Force fragmentation, grand disintegration",0.388115,6.700440,0.963572,ANCHOR,Codex v3.1 §11 (named S7); anchor: spontaneous symmetry breaking (standard field theory),25
+104,Cosmic,Category-Theoretic Morphism,Shadow of Intersections,Crossing refusal; disjointness (derived constraint),0.103441,6.714246,0.479809,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: avoided crossing (standard quantum mechanics),26
+105,Choral,Graph-Theoretic Node,Shadow of Feedback Loops,Loop severance; feedback killing (derived constraint),0.941939,6.727920,0.319700,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: open-loop control (standard control theory),27
+106,Transcendent,Information-Theoretic Channel,Shadow of Closed Loops,Cyclicity breaking; leakage (derived constraint),0.528736,6.741467,0.997616,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: open dissipative processes / leakage (standard thermodynamics),28
+107,Foundational,Automata-Theoretic State,Stillbirth,"Impulse suppression, spark extinction, causal abortion",0.034144,6.754888,0.214767,ANCHOR,"Codex v3.1 §11 (named S8); anchor: quenching of excitation, e.g. fluorescence quenching (standard physical chemistry)",29
+108,Cosmic,Topological Manifold,Shadow of Boundaries,Containment failure; the un-walled domain (derived constraint),0.858993,6.768184,0.586871,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: absorbing / leaky boundary conditions (standard computational physics),30
+109,Choral,Algebraic Group Action,Shadow of Null States,Absence nulling; the null that isn't null (derived constraint),0.667068,6.781360,0.917893,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: vacuum fluctuations / zero-point activity (standard QFT),31
+110,Transcendent,Probabilistic Field,Shadow of Vacuum Energy,Zero-point cancellation (derived constraint),0.001957,6.794416,0.020432,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: boson–fermion zero-point cancellation (standard QFT / SUSY),32
+111,Foundational,Computational Complexity Class,Barren Core,"Seed sterility, potential without germination",0.747449,6.807355,0.815296,ANCHOR,Codex v3.1 §11 (named S9); anchor: subcritical nuclei / failed nucleation (standard classical nucleation theory),33
+112,Cosmic,Signal-Processing Operator,Shadow of Guiding Principles,No least action; non-variational dynamics (derived constraint),0.792092,6.820179,0.737465,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: dissipative non-variational dynamics (standard),34
+113,Choral,Thermodynamic Ensemble,Shadow of Divergence,Spreading reversal; convergence (derived constraint),0.009444,6.832890,0.077086,ANCHOR,"Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: convergence / negative divergence, sinks (standard vector calculus)",35
+114,Transcendent,Network-Theoretic Hub,Shadow of Unit Vectors,Direction nulling; the directionless vector (derived constraint),0.616194,6.845490,0.960686,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: the zero vector (standard linear algebra),36
+115,Foundational,Set-Theoretic Substrate,Frost Star,"Energy depletion, luminosity death, heat death local",0.893848,6.857981,0.488199,ANCHOR,Codex v3.1 §11 (named S10); anchor: maximum-entropy equilibrium / heat death (standard thermodynamics),37
+116,Cosmic,Category-Theoretic Morphism,Shadow of Voltage,Potential-difference nulling (derived constraint),0.056009,6.870365,0.311392,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: short circuit / equipotential (standard electrical engineering),38
+117,Choral,Graph-Theoretic Node,Shadow of Unions,Merging reversal; splitting (derived constraint),0.475683,6.882643,0.998293,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: fission / partition (standard nuclear physics and set theory),39
+118,Transcendent,Information-Theoretic Channel,Shadow of Quantum Gates,Reversibility breaking; non-unitary maps (derived constraint),0.964230,6.894818,0.222549,ANCHOR,"Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: irreversible quantum channels, CPTP non-unitary maps (standard open quantum systems)",40
+119,Foundational,Automata-Theoretic State,River Lethe,"Memory erasure, echo decay, total forgetting",0.137941,6.906891,0.578821,ANCHOR,"Codex v3.1 §11 (named S11); anchor: information erasure, Landauer's principle (standard information thermodynamics)",41
+120,Cosmic,Topological Manifold,Shadow of Reflection,Bounce suppression; echo killing (derived constraint),0.337109,6.918863,0.922026,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: impedance-matched anti-reflection / perfect absorption (standard optics and EM),42
+121,Choral,Algebraic Group Action,Shadow of Opposition,Antagonism nulling (derived constraint),0.997632,6.930737,0.024068,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: constructive interference (standard wave physics),43
+122,Transcendent,Probabilistic Field,Shadow of Regeneration,Renewal failure; irreparable degradation (derived constraint),0.248715,6.942515,0.809235,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: senescence / irrecoverable degradation (standard biology and materials science),44
+123,Foundational,Computational Complexity Class,Amorphous,"Structure dissolution, crystalline melt, topological chaos",0.211511,6.954196,0.744361,ANCHOR,"Codex v3.1 §11 (named S12); anchor: melting / amorphization, loss of crystalline order (standard materials physics)",45
+124,Cosmic,Signal-Processing Operator,Shadow of Velocity,Motion arrest; the null of change (derived constraint),0.991393,6.965784,0.071413,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: rest as the null of velocity (standard kinematics),46
+125,Choral,Thermodynamic Ensemble,Shadow of Harmonic Means,Compromise nulling; extremal dominance (derived constraint),0.379506,6.977280,0.957692,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: bottleneck / weakest-link dominance (theory of constraints),47
+126,Transcendent,Network-Theoretic Hub,Shadow of Chirality,Handedness nulling; mirror restoration (derived constraint),0.108894,6.988685,0.496571,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: achiral / meso compounds (standard chemistry),48
+127,Foundational,Set-Theoretic Substrate,Gordian Cut,"Entanglement severance, binding failure, dimensional tear",0.946009,7.000000,0.303113,ANCHOR,"Codex v3.1 §11 (named S13); anchor: disentanglement, incl. entanglement sudden death (standard open-quantum-systems)",49
+128,Cosmic,Category-Theoretic Morphism,Shadow of Angular Momentum,Spin cancellation; rotation nulling (derived constraint),0.519895,7.011227,0.998858,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: cancellation of angular momenta (standard mechanics),50
+129,Choral,Graph-Theoretic Node,Shadow of Triadic Stability,Three-body equilibrium breaking (derived constraint),0.037432,7.022368,0.230391,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: chaotic three-body dynamics (standard celestial mechanics),51
+130,Transcendent,Information-Theoretic Channel,Shadow of Global States,Holism nulling; pure locality (derived constraint),0.865097,7.033423,0.570733,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: separable states / purely local description (standard QM),52
+131,Foundational,Automata-Theoretic State,Ariadne Abandoned,"Path loss, history truncation, maze without thread",0.658700,7.044394,0.926057,ANCHOR,Codex v3.1 §11 (named S14); anchor: path loss / signal attenuation (standard communications and propagation theory),53
+132,Cosmic,Topological Manifold,Shadow of Mass,Mass nulling; the massless dual (derived constraint),0.002818,7.055282,0.027930,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: massless particles (standard relativity),54
+133,Choral,Algebraic Group Action,Shadow of Wave Vectors,Propagation nulling; imaginary-k (derived constraint),0.755101,7.066089,0.803092,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: evanescent waves (standard optics and QM),55
+134,Transcendent,Probabilistic Field,Shadow of Entropy Maximization,"Disorder-arrow reversal, local (derived constraint)",0.784863,7.076816,0.751188,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: local entropy reduction via work input / negentropy flux (standard thermodynamics),56
+135,Foundational,Computational Complexity Class,Gradient Flatline,"Optimization death, local minimum trap, zero slope",0.007809,7.087463,0.065890,ANCHOR,Codex v3.1 §11 (named S15); anchor: vanishing gradients (standard deep learning / optimization theory),57
+136,Cosmic,Signal-Processing Operator,Shadow of Frequency,Periodicity nulling; the aperiodic dual (derived constraint),0.624785,7.098032,0.954593,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: aperiodic signals; the zero-frequency (DC) component (standard signal processing),58
+137,Choral,Thermodynamic Ensemble,Shadow of Reflection Matrices,Scattering nulling; transparency (derived constraint),0.888333,7.108524,0.504922,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: unit transmission / identity S-matrix (standard scattering theory),59
+138,Transcendent,Network-Theoretic Hub,Shadow of Cyclic Completion,Return failure; non-recurrence (derived constraint),0.052008,7.118941,0.294866,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: non-recurrent / open-ended trajectories (standard dynamical systems),60
+139,Foundational,Set-Theoretic Substrate,Dissonance Storm,"Resonance jamming, frequency warfare, destructive beating",0.484528,7.129283,0.999309,ANCHOR,Codex v3.1 §11 (named S16); anchor: destructive interference (standard wave physics),61
+140,Cosmic,Category-Theoretic Morphism,Shadow of Kinetic Bursts,Impulse suppression; gradualized release (derived constraint),0.960870,7.139551,0.238290,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: adiabatic vs. impulsive processes (standard thermodynamics),62
+141,Choral,Graph-Theoretic Node,Shadow of Recursive Layering,Nesting nulling; de-hierarchization (derived constraint),0.131893,7.149747,0.562608,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: heterarchy / flat organization (McCulloch 1945),63
+142,Transcendent,Information-Theoretic Channel,Shadow of Trajectories,Path nulling; trajectory-less evolution (derived constraint),0.345503,7.159871,0.929988,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: absence of trajectories in quantum mechanics (standard QM),64
+143,Foundational,Automata-Theoretic State,Malthusian Collapse,"Growth overshoot, recursive exhaustion, resource depletion",0.996693,7.169925,0.032010,ANCHOR,Codex v3.1 §11 (named S17); anchor: overshoot-and-collapse dynamics (standard population / resource dynamics),65
+144,Cosmic,Topological Manifold,Shadow of Light,Causal-limit nulling; the acausal elsewhere (derived constraint),0.241102,7.179909,0.796868,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: spacelike separation / the causally disconnected elsewhere (standard relativity),66
+145,Choral,Algebraic Group Action,Shadow of Fractal Iteration,Self-similarity breaking; scale cutoff (derived constraint),0.218786,7.189825,0.757944,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: cutoff scales of physical fractals (standard),67
+146,Transcendent,Probabilistic Field,Shadow of Returns,Restoration failure; attractor escape (derived constraint),0.992951,7.199672,0.060524,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: escape from attractors (standard dynamical systems),68
+147,Foundational,Computational Complexity Class,Time Abyss,"Temporal fragmentation, arrow reversal, eternal stasis",0.370935,7.209453,0.951387,ANCHOR,Codex v3.1 §11 (named S18); anchor: microscopic time-reversal symmetry (standard physics),69
+148,Cosmic,Signal-Processing Operator,Shadow of Cosmic Closure,Closure refusal; the unbounded dual (derived constraint),0.114469,7.219169,0.513252,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: open / unbounded cosmological models (standard cosmology),70
+149,Choral,Thermodynamic Ensemble,Shadow of Choral Closure,Closure refusal; the un-closed bracket (derived constraint),0.949940,7.228819,0.286652,SYMBOLIC-ONLY,symbolic-only formal complement — no physical claim (mirror of a symbolic-only primal),71
+150,Transcendent,Network-Theoretic Hub,Shadow of Asymptotic Limits,Convergence failure at infinity (derived constraint),0.511048,7.238405,0.999648,ANCHOR,Codex v3.1 §11 (shadow existence asserted; name by proposal convention); anchor: divergence (standard analysis),72
