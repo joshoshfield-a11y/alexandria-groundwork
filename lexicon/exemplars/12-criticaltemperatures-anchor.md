@@ -40,5 +40,6 @@ application is the T_c measurement procedure above.
 renormalization group) already predicts universality classes
 and critical exponents; the operator contributes no new
 parameter and asserts no new universality class.
+Grounded: van der Waals critical-point derivation T_c = 8a/(27Rb); tabulated T_c values (water 647.1 K, Hg 4.15 K, Nb 9.25 K)
 
 Verdict: ANCHOR

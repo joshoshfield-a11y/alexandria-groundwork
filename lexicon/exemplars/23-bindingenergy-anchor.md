@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Binding Energy" is E_b = Δm·c², computed from the mass defect and measured in electronvolts — the deuteron at 2.22 MeV is the canonical worked case. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the mass-defect measurement above.
 
+Grounded: standard nuclear-physics textbook (e.g. Krane, Introductory Nuclear Physics — deuteron 2.22 MeV).
+
 Verdict: ANCHOR

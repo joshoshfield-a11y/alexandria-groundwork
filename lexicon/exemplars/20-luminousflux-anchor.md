@@ -39,5 +39,6 @@ fixed by the CIE; a define would need a physical departure —
 e.g. wavelength-dependent light-matter interaction outside
 radiometry — which is outside this operator's scope and is
 not proposed.
+Grounded: CIE photometry definitions (K_m = 683 lm/W at 555 nm; lm = cd·sr)
 
 Verdict: ANCHOR

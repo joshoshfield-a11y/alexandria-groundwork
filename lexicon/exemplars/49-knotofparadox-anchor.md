@@ -41,4 +41,6 @@ The placeholder λ/κ/H_max are retired for this row; the
 operator's "application" is the Schmidt-decomposition computation
 above. No novelty claimed.
 
+Grounded: Nielsen & Chuang Ch. 2 (Schmidt decomposition); Bell/CHSH (Tsirelson bound 2√2)
+
 Verdict: ANCHOR

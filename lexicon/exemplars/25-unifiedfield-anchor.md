@@ -43,4 +43,6 @@ claim. The placeholder λ/κ/H_max are retired for this row; the
 operator's "application" is the covariant Maxwell computation
 above.
 
+Grounded: Jackson, Classical Electrodynamics Ch. 11 (covariant Maxwell equations)
+
 Verdict: ANCHOR

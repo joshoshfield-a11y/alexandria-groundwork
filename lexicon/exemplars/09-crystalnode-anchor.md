@@ -41,4 +41,6 @@ decoherence. The placeholder λ/κ/H_max are retired for this row;
 the operator's "application" is the l₁-norm computation above.
 No novelty claimed.
 
+Grounded: Baumgratz–Cramer–Plenio, PRL 113, 140401 (2014) (l1-norm of coherence)
+
 Verdict: ANCHOR

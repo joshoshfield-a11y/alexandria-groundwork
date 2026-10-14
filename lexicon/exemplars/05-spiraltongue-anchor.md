@@ -40,4 +40,6 @@ converging or terminating by the standard theorems. The placeholder
 λ/κ/H_max are retired for this row; the operator's "application" is
 the iteration procedure above. No novelty claimed.
 
+Grounded: Banach contraction theorem; standard computability theory (primitive recursion)
+
 Verdict: ANCHOR

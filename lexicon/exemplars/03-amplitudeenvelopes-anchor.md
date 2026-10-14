@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Amplitude Envelopes" is the analytic-signal envelope e(t), computed and measured exactly as the textbooks prescribe — no fog, no extra claim. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the measurement procedure above.
 
+Grounded: Oppenheim & Schafer, Discrete-Time Signal Processing (analytic signal / envelope detection); Gabor 1946.
+
 Verdict: ANCHOR

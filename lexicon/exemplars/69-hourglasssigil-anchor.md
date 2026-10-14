@@ -17,7 +17,8 @@ Date: 2026-10-12.
    dτ = √(−ds²)/c. Worked example: a clock moving at v = 0.6c
    for coordinate time t = 10 s records proper time
    τ = t√(1−v²/c²) = 10×0.8 = 8 s — time dilation, verified to
-   10⁻¹⁶ precision in muon and clock experiments.
+   10⁻¹⁶ in optical-clock tests (Chou et al., 2010) and to 10⁻³ in
+   muon storage rings (Bailey et al., 1977).
 3. **Measurable quantity:** time in seconds (SI: 9,192,631,770
    periods of the Cs-133 hyperfine transition). Instrument:
    atomic clocks; for intervals, any calibrated oscillator or
@@ -40,5 +41,7 @@ time from the spacetime interval, measured in SI seconds by atomic
 clocks, with the standard dilation relation. The placeholder
 λ/κ/H_max are retired for this row; the operator's "application"
 is the proper-time computation above. No novelty claimed.
+
+Grounded: Einstein 1905 (special relativity); Chou et al., Science 2010; Bailey et al., Nature 1977
 
 Verdict: ANCHOR

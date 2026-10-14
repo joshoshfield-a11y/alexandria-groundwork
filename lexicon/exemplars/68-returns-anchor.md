@@ -11,8 +11,8 @@ Date: 2026-10-12.
 ## Hardened spec
 
 1. **State space:** a measure-preserving dynamical system
-   (X, μ, T) with μ(X) < ∞; the return set of a neighborhood U,
-   T⁻ⁿ(U) ∩ U ≠ ∅.
+   (X, μ, T) on a probability space (μ(X) = 1); the return set of
+   a neighborhood U, T⁻ⁿ(U) ∩ U ≠ ∅.
 2. **Computable form:** Poincaré recurrence — almost every x
    returns arbitrarily close to x after some finite n.
    Kac's lemma: mean return time to A is τ_A = 1/μ(A).
@@ -44,5 +44,6 @@ recurrence measurement in small systems.
 novelty on offer would be a measurable violation of
 measure-preserving dynamics, which is a claim about dynamics,
 not about this operator.
+Grounded: ergodic theory — Poincaré recurrence theorem, Kac's lemma (probability-measure form)
 
 Verdict: ANCHOR

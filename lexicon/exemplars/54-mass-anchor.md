@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Mass" is the inertial/gravitational parameter m; the hardening writes both standard forms, a worked F/a example, and the balance procedure under the h-defined kilogram, claiming no novelty. The 2019 SI revision fixed h exactly, so the kilogram is now realized — not defined — by the Kibble balance; the operator's quantity is therefore traceable to a constant of nature rather than an artifact. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: NIST SI Brochure, 9th ed. (kilogram defined via fixed Planck constant)
+
 Verdict: ANCHOR

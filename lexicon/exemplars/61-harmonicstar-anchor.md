@@ -41,4 +41,6 @@ The placeholder λ/κ/H_max are retired for this row; the
 operator's "application" is the driven-oscillator computation
 above. No novelty claimed.
 
+Grounded: Halliday/Resnick/Walker Ch. 15–16 (driven oscillations, Q factor)
+
 Verdict: ANCHOR

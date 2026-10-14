@@ -39,5 +39,6 @@ normalization wherever the Engine needs a pure direction.
 **Why not DEFINE:** normalization is a convention of algebra —
 there is nothing to extend, and no measurement that could
 disagree with it.
+Grounded: linear algebra — normed vector spaces (normalization is definition)
 
 Verdict: ANCHOR

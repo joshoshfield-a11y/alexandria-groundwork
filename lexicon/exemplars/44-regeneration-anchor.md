@@ -41,5 +41,6 @@ rate measurement above.
 biological instances inherit its statistics; no independent
 prediction can be stated that Feller's theory would not
 already cover.
+Grounded: renewal theory (Feller) — elementary renewal theorem
 
 Verdict: ANCHOR

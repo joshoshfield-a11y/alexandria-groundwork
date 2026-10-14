@@ -1,11 +1,11 @@
-# Exemplar — ANCHOR: idx 73, "Empty Root" — PROPOSED (Foundational)
+# Exemplar — ANCHOR: idx 73, "Empty Root" (Foundational)
 
 Date: 2026-10-12.
 
 ## Canon row
 
-- idx 73 · Foundational · Set-Theoretic Substrate · codex UNNAMED
-- Proposed name: **"Empty Root"** (PROPOSED — user confirms or rejects)
+- idx 73 · Foundational · Set-Theoretic Substrate · codex "Empty Root"
+- Name confirmed 2026-10-14 — final.
 - Technical (v3.1): none given; hardened structurally from pillar/domain
 - Placeholder (retired): λ=sin²(73)=0.45802, κ=log₂(74)=6.209453, H_max=0.994909 — scaffold values, no meaning claimed
 
@@ -26,16 +26,16 @@ Date: 2026-10-12.
    set's existence is an axiom, and it is provably unique.
 5. **Delta assessment:** none. This operator is the empty set —
    the foundation from which the set-theoretic substrate is
-   built — under a proposed mythic name.
+   built — under a mythic name.
 
 ## Verdict: ANCHOR
 
-Relabel admitted, name proposed. The Foundational Set-Theoretic
+Relabel admitted. The Foundational Set-Theoretic
 Substrate slot at idx 73 anchors to the empty set: the unique set
 with no members, the standard starting point of the cumulative
-hierarchy. The name "Empty Root" is PROPOSED pending the user's
-decision; if rejected, any replacement name keeps this anchor.
-The placeholder λ/κ/H_max are retired for this row. No novelty
-claimed.
+hierarchy, named "Empty Root". The placeholder λ/κ/H_max are
+retired for this row. No novelty claimed.
+
+Grounded: standard ZF set theory (empty-set axiom; uniqueness by extensionality)
 
 Verdict: ANCHOR

@@ -44,3 +44,8 @@ Hardening does not always mean discovering novelty. Sometimes it
 means writing down, honestly, "this word means frequency, and
 frequency means what the textbooks say." That is still progress:
 one fewer foggy word in the lexicon.
+
+
+Grounded: standard wave kinematics / Fourier analysis (f = 1/T)
+
+Verdict: ANCHOR

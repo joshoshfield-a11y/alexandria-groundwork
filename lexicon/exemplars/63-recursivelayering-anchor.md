@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Recursive Layering" is structural recursion: base case plus reduction rule, depth measured in nested layers — F(5) = 120 at depth 5. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the depth accounting above.
 
+Grounded: standard programming-languages / computability textbook (structural recursion, well-founded induction).
+
 Verdict: ANCHOR

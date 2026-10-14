@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Light" is the invariant speed c = 299,792,458 m/s; the hardening writes the defined value, a worked astronomical-unit travel-time example, and the time-of-flight procedure, claiming no novelty. Because c is defined, the meter is what is now measured: 1 m is the distance light travels in 1/299,792,458 s — the operator's constant underwrites the length unit itself, and no experiment can "re-measure" it. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: NIST SI Brochure (c = 299 792 458 m/s exact); Einstein 1905
+
 Verdict: ANCHOR

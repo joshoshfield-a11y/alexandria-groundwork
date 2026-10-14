@@ -15,8 +15,8 @@ Date: 2026-10-12.
    mirror-image pairs, R and S enantiomers.
 2. **Computable form:** specific rotation [α]^T_λ = α/(l·c), where
    α is observed rotation, l path length (dm), c concentration
-   (g/mL). Worked example: (R)-lactic acid has
-   [α]^20_D ≈ +2.6°·mL/(dm·g); the S enantiomer gives −2.6°.
+   (g/mL). Worked example: (S)-lactic acid has
+   [α]^20_D ≈ +2.6°·mL/(dm·g); the R enantiomer gives −2.6°.
 3. **Measurable quantity:** optical rotation in degrees; specific
    rotation in °·mL/(dm·g). Instrument: polarimeter. Helicity
    (particles) is measured via angular distributions in decay
@@ -43,5 +43,6 @@ stereochemistry and by parity violation in the Standard Model.
 A genuine define would need, e.g., a homochirality mechanism
 beyond known physics — a real research question, but not one
 this operator resolves; not proposed.
+Grounded: stereochemistry — CIP R/S assignment, polarimetry (standard organic chemistry)
 
 Verdict: ANCHOR

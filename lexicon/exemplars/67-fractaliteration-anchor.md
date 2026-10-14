@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Fractal Iteration" is z_{n+1} = z_n² + c with the |z| > 2 escape test — bounded at c = 0 and c = −1, escaped at n = 3 for c = 1. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the escape-time computation above.
 
+Grounded: Mandelbrot 1980 (complex dynamics); Shishikura's theorem (Mandelbrot boundary, Hausdorff dimension 2).
+
 Verdict: ANCHOR

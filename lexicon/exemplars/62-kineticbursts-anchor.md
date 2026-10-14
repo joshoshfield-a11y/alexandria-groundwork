@@ -21,4 +21,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Kinetic Bursts" is the impulse–momentum/energy-delivery pair (J = Δp, ΔK) for short-duration interactions; the hardening writes the standard forms, a worked ball-strike example with impulse, force, and energy numbers, and the force-plate procedure, claiming no novelty. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: standard Newtonian mechanics (impulse–momentum, work–energy)
+
 Verdict: ANCHOR

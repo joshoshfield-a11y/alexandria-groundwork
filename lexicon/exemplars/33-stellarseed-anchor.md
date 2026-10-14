@@ -43,4 +43,6 @@ initial-value problems. The placeholder λ/κ/H_max are retired for
 this row; the operator's "application" is the seeded-recurrence
 computation above. No novelty claimed.
 
+Grounded: Numerical Recipes LCG (constants verified by direct computation); standard PRNG/dynamical-systems theory
+
 Verdict: ANCHOR

@@ -44,5 +44,6 @@ above.
 engineering formalism; nonlinear or adaptive extensions are
 separate theories already named elsewhere, not delta on this
 operator.
+Grounded: classical control theory — Black/Nyquist/Bode closed-loop formalism
 
 Verdict: ANCHOR

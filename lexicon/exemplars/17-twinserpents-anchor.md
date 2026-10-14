@@ -41,4 +41,6 @@ eigenvalues and the standard selection rules. The placeholder
 λ/κ/H_max are retired for this row; the operator's "application"
 is the parity decomposition above. No novelty claimed.
 
+Grounded: Sakurai, Modern Quantum Mechanics (parity); Jackson Ch. 6 (EM duality)
+
 Verdict: ANCHOR

@@ -41,5 +41,6 @@ residue computation and contour integration.
 **Why not DEFINE:** the mathematics is closed; novelty here
 would be a theorem, not a physical prediction, and none is
 proposed.
+Grounded: complex analysis — Cauchy residue theorem (standard textbook)
 
 Verdict: ANCHOR

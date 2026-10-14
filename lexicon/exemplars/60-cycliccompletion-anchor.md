@@ -40,5 +40,6 @@ Carnot computation.
 **Why not DEFINE:** Carnot's bound is a theorem of the second
 law; no extension of it can be offered under this operator's
 name.
+Grounded: thermodynamics — first/second laws, Carnot efficiency bound
 
 Verdict: ANCHOR

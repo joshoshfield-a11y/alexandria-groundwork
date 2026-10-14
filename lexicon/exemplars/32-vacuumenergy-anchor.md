@@ -15,7 +15,8 @@ Date: 2026-10-12.
    ⟨T_μν⟩ = −ρ_vac g_μν.
 2. **Computable form:** Casimir force between parallel plates,
    F = −π²ℏcA/(240d⁴). Worked example: A = 1 cm², d = 1 μm →
-   F ≈ 1.3×10⁻⁹ N — measured to ~1% agreement (Lamoreaux 1997).
+   F ≈ 1.3×10⁻⁷ N — measured to ~1% agreement
+   (Mohideen & Roy 1998).
 3. **Measurable quantity:** vacuum energy density ρ_vac in J/m³.
    Laboratory: Casimir force in newtons (atomic-force microscopy).
    Cosmological: the Λ-implied value ρ_vac ≈ 5.6×10⁻¹⁰ J/m³ from
@@ -39,5 +40,6 @@ DEFINE here would mean claiming to solve the cosmological
 constant problem; no such claim is made. The placeholder λ/κ/H_max
 are retired; the operator's application is the Casimir-force
 measurement above.
+Grounded: Casimir force formula (Casimir 1948); ~1% agreement via Mohideen & Roy 1998, PRL 81, 4549
 
 Verdict: ANCHOR

@@ -41,4 +41,6 @@ The placeholder λ/κ/H_max are retired for this row; the operator's
 "application" is the coupled-oscillator computation above.
 No novelty claimed.
 
+Grounded: standard coupled-oscillator mechanics; Noether's theorem (energy conservation)
+
 Verdict: ANCHOR

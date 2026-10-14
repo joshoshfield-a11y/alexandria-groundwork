@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Reflection" is the involutive isometry R² = I; the hardening writes the matrix form, a worked vector example, and the reflectance-measurement procedure, claiming no novelty. Every orthogonal involution diagonalizes with eigenvalues ±1; the −1 eigenspace is the mirror plane's normal — the operator's full content in one spectral sentence, with no hidden parameters and no free constants to fit — a complete, closed specification. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: standard linear algebra (orthogonal involutions); Fresnel equations
+
 Verdict: ANCHOR

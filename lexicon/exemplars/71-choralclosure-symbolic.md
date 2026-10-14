@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Choral Closure" is the Choral pillar's closing marker — the cadence at the end of the R1–R18 run, signaling completeness to the Engine's sequencing machinery. No physical claim is attached, no quantity measured, no novelty pretended; the placeholder λ/κ/H_max are retired like all the others. Its honesty is its explicit lack of physics.
 
+Grounded: symbolic-only sequencing marker — no physical claim.
+
 Verdict: SYMBOLIC-ONLY

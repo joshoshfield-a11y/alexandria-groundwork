@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Signal Sources" is the source distribution ρ_s that drives a wave equation; the hardening writes the retarded-potential form, a worked monopole example, and the power-measurement procedure, claiming no novelty. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: Jackson, Classical Electrodynamics (retarded potentials); Hertz (1888)
+
 Verdict: ANCHOR

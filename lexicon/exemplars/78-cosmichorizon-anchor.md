@@ -1,10 +1,10 @@
-# Exemplar — ANCHOR: idx 78, "Cosmic Horizon" (Cosmic D20) — PROPOSED name
+# Exemplar — ANCHOR: idx 78, "Cosmic Horizon" (Cosmic D20)
 
 Date: 2026-10-12.
 
 ## Canon row
 
-- idx 78 · Cosmic · Topological Manifold · codex UNNAMED — **PROPOSED name: "Cosmic Horizon"** (user confirms or rejects)
+- idx 78 · Cosmic · Topological Manifold · codex "Cosmic Horizon" (name confirmed 2026-10-14)
 - Technical (v3.1): (none — extension slot)
 - Placeholder (retired): λ=sin²(78)≈0.2642, κ=log₂(79)≈6.3038 — index-derived scaffold values, no physical meaning claimed
 - Naming rationale: a Topological Manifold in the Cosmic pillar with idx 30 ("Boundaries") already taken calls for the boundary that matters cosmologically — the particle horizon, the topological edge of the observable universe.
@@ -15,10 +15,12 @@ Date: 2026-10-12.
 2. **Computable form:** comoving particle-horizon radius d_p = c ∫₀^{t₀} dt/a(t). Worked example: flat ΛCDM with H₀ ≈ 70 km/s/Mpc, Ω_m ≈ 0.3, Ω_Λ ≈ 0.7 → the integral evaluates to d_p ≈ 14.3 Gpc ≈ 46.5 billion light-years. The observable universe is the ball bounded by this horizon — a manifold with boundary.
 3. **Measurable quantity:** distance in meters (or light-years / parsecs). Instrument: cosmological surveys — CMB anisotropy (Planck), Type Ia supernova distance ladder, baryon acoustic oscillations; the horizon radius is inferred from the fitted ΛCDM parameters, not read off a dial.
 4. **Standard theory:** Friedmann–Lemaître–Robertson–Walker cosmology; particle horizon vs. event horizon distinction (Rindler 1956).
-5. **Delta assessment:** none. The particle horizon is standard cosmology; the name is proposed, the concept is not.
+5. **Delta assessment:** none. The particle horizon is standard cosmology; the name is confirmed, the concept is not new.
 
 ## Verdict: ANCHOR
 
-Name proposed, concept anchored. "Cosmic Horizon" is the particle horizon of ΛCDM — the topological boundary of the observable universe; the hardening writes the horizon integral, a worked 46.5-Gly evaluation, and the survey-inference procedure, claiming no novelty — only the name is new (PROPOSED, awaiting user confirmation). The placeholder λ/κ/H_max are retired for this row.
+Name confirmed, concept anchored. "Cosmic Horizon" is the particle horizon of ΛCDM — the topological boundary of the observable universe; the hardening writes the horizon integral, a worked 46.5-Gly evaluation, and the survey-inference procedure, claiming no novelty. The placeholder λ/κ/H_max are retired for this row.
+
+Grounded: standard ΛCDM cosmology (FLRW particle horizon, d_p integral)
 
 Verdict: ANCHOR

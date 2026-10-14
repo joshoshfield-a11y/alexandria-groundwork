@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Origin Vectors" is the position vector r from a fixed origin; the hardening writes the standard form, a worked magnitude example, and the coordinate-measurement procedure, claiming no novelty. Under a change of origin r → r + a, every equation of motion is unchanged; the operator's only honest content is the origin-independent displacement d = r₂ − r₁, and no measurement can recover O itself; the entire content of the operator is captured by differences of position vectors. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: standard vector kinematics (Cartesian coordinates)
+
 Verdict: ANCHOR

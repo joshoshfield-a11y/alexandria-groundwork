@@ -41,4 +41,6 @@ optimization. The placeholder λ/κ/H_max are retired for this row;
 the operator's "application" is the gradient-descent computation
 above. No novelty claimed.
 
+Grounded: standard vector calculus / optimization theory (gradient descent, η < 2/L)
+
 Verdict: ANCHOR

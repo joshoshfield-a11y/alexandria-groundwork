@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Force & Potential Wells" is F = −∇V with bound states in the minima; the hardening writes the standard form, a worked spring-well example with force and energy numbers, and the measurement procedure, claiming no novelty. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: standard classical mechanics — F = −∇V, Hooke's law
+
 Verdict: ANCHOR

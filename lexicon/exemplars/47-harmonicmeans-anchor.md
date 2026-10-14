@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Harmonic Means" is H = n/Σ(1/x_i) — the right average for rates over equal numerators, 48 km/h for the 60/40 round trip, not 50. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the rate-averaging computation above.
 
+Grounded: standard statistics textbook (Pythagorean means, H ≤ G ≤ A).
+
 Verdict: ANCHOR

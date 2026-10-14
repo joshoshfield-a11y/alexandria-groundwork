@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Depth" is depth(v) = dist(r, v) in edges, computed by BFS, measured as a hop count. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the traversal procedure above.
 
+Grounded: standard graph-theory textbook (e.g. Diestel, Graph Theory — BFS and distance).
+
 Verdict: ANCHOR

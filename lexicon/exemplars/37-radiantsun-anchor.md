@@ -38,4 +38,6 @@ kinetic, potential, thermal, and radiative forms. The placeholder
 λ/κ/H_max are retired for this row; the operator's "application"
 is the energy bookkeeping above. No novelty claimed.
 
+Grounded: standard mechanics/thermodynamics (E = T + V, E = hν); CODATA Planck constant
+
 Verdict: ANCHOR

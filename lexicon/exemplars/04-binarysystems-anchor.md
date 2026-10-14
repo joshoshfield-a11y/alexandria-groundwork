@@ -17,7 +17,9 @@ Date: 2026-10-12.
    where a is the semi-major axis and T the orbital period.
    Worked example: Earth–Moon, a = 3.844×10⁸ m,
    m₁+m₂ ≈ 6.047×10²⁴ kg, G = 6.674×10⁻¹¹ m³kg⁻¹s⁻² →
-   T ≈ 2.361×10⁶ s ≈ 27.32 d, the known sidereal month.
+   T ≈ 2.357×10⁶ s ≈ 27.28 d, the unperturbed two-body value
+   (the observed sidereal month is 27.3217 d; solar perturbations
+   account for the small difference).
 3. **Measurable quantity:** orbital period (s), semi-major axis (m),
    mass ratio (dimensionless). Instruments: astrometric tracking,
    radial-velocity spectroscopy, pulsar timing (for relativistic
@@ -43,5 +45,6 @@ corrections are standard theory, and any purported anomaly
 (e.g. a modified Kepler constant) would be a claim about
 gravity, not about this operator. Declined — ANCHOR is the
 success.
+Grounded: classical mechanics — Kepler's third law (Newtonian two-body solution)
 
 Verdict: ANCHOR

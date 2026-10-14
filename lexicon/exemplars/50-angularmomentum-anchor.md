@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Angular Momentum" is L = r × p; the hardening writes the standard form, a worked tether example with a numeric L, and the rotational-dynamics measurement procedure, claiming no novelty. Conservation is the point: with no external torque, dL/dt = 0 — the measurable consequence is that isolated rotators keep their spin, verified from gyroscopes to pulsars. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: Goldstein, Classical Mechanics (L = r × p; Noether)
+
 Verdict: ANCHOR

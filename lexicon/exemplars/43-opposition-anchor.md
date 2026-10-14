@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Opposition" is antiphase: Δφ = π, summed amplitude 2A|cos(Δφ/2)|, zero at exact opposition. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the phase-difference measurement above.
 
+Grounded: standard wave-physics textbook (superposition and antiphase cancellation).
+
 Verdict: ANCHOR

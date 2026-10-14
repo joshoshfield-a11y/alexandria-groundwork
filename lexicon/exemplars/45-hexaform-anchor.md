@@ -41,4 +41,6 @@ crystallography. The placeholder λ/κ/H_max are retired for this
 row; the operator's "application" is the hexagonal-lattice
 computation above. No novelty claimed.
 
+Grounded: Kittel, Intro. to Solid State Physics (Bravais lattices, Bragg diffraction); graphene a = 2.46 Å
+
 Verdict: ANCHOR

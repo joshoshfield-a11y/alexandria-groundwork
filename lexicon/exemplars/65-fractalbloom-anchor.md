@@ -40,4 +40,6 @@ the standard population-dynamics object. The placeholder λ/κ/H_max
 are retired for this row; the operator's "application" is the
 growth-equation computation above. No novelty claimed.
 
+Grounded: standard population dynamics (Malthusian/logistic growth)
+
 Verdict: ANCHOR

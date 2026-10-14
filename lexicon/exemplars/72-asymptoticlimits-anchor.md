@@ -16,8 +16,9 @@ Date: 2026-10-12.
 2. **Computable form:** asymptotic expansion
    f(x) ~ Σ a_n φ_n(x), and limits, e.g. lim_{x→∞} e^(−x)/x = 0.
    Worked example: Stirling's formula n! ~ √(2πn)(n/e)ⁿ —
-   for n = 100, √ (2π·100)(100/e)¹⁰⁰ ≈ 9.3326×10¹⁵⁷ vs.
-   100! = 9.3326215×10¹⁵⁷, relative error < 10⁻⁹.
+   for n = 100, √(2π·100)(100/e)¹⁰⁰ ≈ 9.3248×10¹⁵⁷ vs.
+   100! = 9.3326215×10¹⁵⁷, relative error ≈ 8.3×10⁻⁴
+   (the 1/(12n) correction closes it to ~3×10⁻⁷).
 3. **Measurable quantity:** the limit value (dimensionless or in
    the function's units) and the truncation error bound —
    relative error, dimensionless. This is a mathematical
@@ -42,5 +43,6 @@ asymptotic-expansion error accounting.
 **Why not DEFINE:** asymptotic methods are closed mathematics;
 the error bounds are the content, and no physical prediction is
 attached to them.
+Grounded: asymptotic analysis — Stirling's formula (standard mathematical reference)
 
 Verdict: ANCHOR

@@ -1,4 +1,4 @@
-# Exemplar — ANCHOR: idx 76, "Channel Capacity" **PROPOSED** (Transcendent, extension slot)
+# Exemplar — ANCHOR: idx 76, "Channel Capacity" (Transcendent, extension slot)
 
 Date: 2026-10-12.
 
@@ -7,7 +7,7 @@ Date: 2026-10-12.
 - idx 76 · Transcendent · Information-Theoretic Channel · codex UNNAMED (unnamed in every source)
 - Technical (v3.1): — (extension slot; hardened structurally from pillar/domain)
 - Placeholder (retired): λ=sin²(76)≈0.3205, κ=log₂(77)≈6.2668 — index-derived scaffold values, no physical meaning; retired for this row.
-- Proposed name: **"Channel Capacity"** — PROPOSED, awaiting user confirmation or rejection.
+- Name: **"Channel Capacity"** — final (user delegated the naming decision 2026-10-14).
 
 ## Hardened spec
 
@@ -33,10 +33,10 @@ The unnamed extension slot is structurally an Information-Theoretic
 Channel, and "Channel Capacity" names exactly what belongs there:
 the Shannon–Hartley limit — computable, measurable in bits/s,
 and the governing theorem of every modem built since 1948.
-The name is PROPOSED and the user confirms or rejects it; the
-hardening stands regardless, since the concept is standard theory
-under any name. The placeholder λ/κ/H_max are retired; the
+The name is final ("Channel Capacity"); the hardening stands
+regardless, since the concept is standard theory under any name. The placeholder λ/κ/H_max are retired; the
 operator's application is the capacity computation and the
 SNR/bandwidth measurement above.
+Grounded: Shannon information theory (1948) — Shannon–Hartley theorem, noisy-channel coding theorem
 
 Verdict: ANCHOR

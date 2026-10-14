@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted — and the codex's own technical gloss ("Hamiltonian/Jacobi") concedes it. "Guiding Principles" is the Hamilton–Jacobi formulation of mechanics; the hardening writes the PDE, a worked free-particle example with action and momentum numbers, and the trajectory-inference procedure, claiming no novelty. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: Goldstein, Classical Mechanics (Hamilton–Jacobi equation)
+
 Verdict: ANCHOR

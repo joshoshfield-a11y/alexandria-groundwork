@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Eigenvalue Dynamics" is the standard spectral analysis of ẋ = Ax: compute the spectrum, read stability and modal structure off the real and imaginary parts. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired (note: the placeholder was also literally named λ — it has nothing to do with eigenvalues, which is exactly why the scaffold values had to go). The operator's application is the measurement procedure above.
 
+Grounded: standard linear-systems textbook (e.g. Khalil, Nonlinear Systems Ch. 4 — Re(λ)<0 stability criterion).
+
 Verdict: ANCHOR

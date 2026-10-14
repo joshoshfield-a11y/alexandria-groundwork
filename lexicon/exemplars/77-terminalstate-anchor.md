@@ -1,11 +1,11 @@
-# Exemplar — ANCHOR: idx 77, "Terminal State" — PROPOSED (Foundational)
+# Exemplar — ANCHOR: idx 77, "Terminal State" (Foundational)
 
 Date: 2026-10-12.
 
 ## Canon row
 
-- idx 77 · Foundational · Automata-Theoretic State · codex UNNAMED
-- Proposed name: **"Terminal State"** (PROPOSED — user confirms or rejects)
+- idx 77 · Foundational · Automata-Theoretic State · codex "Terminal State"
+- Name confirmed 2026-10-14 — final.
 - Technical (v3.1): none given; hardened structurally from pillar/domain
 - Placeholder (retired): λ=sin²(77)=0.999041, κ=log₂(78)=6.285402, H_max=0.011003 — scaffold values, no meaning claimed
 
@@ -28,16 +28,16 @@ Date: 2026-10-12.
    recurrent classes.
 5. **Delta assessment:** none. This operator is the terminal state —
    the fixed, inescapable end-state of a transition system —
-   under a proposed mythic name.
+   under a mythic name.
 
 ## Verdict: ANCHOR
 
-Relabel admitted, name proposed. The Foundational Automata-Theoretic
+Relabel admitted. The Foundational Automata-Theoretic
 State slot at idx 77 anchors to the terminal/absorbing state: the
 standard end-of-computation fixed point of automata and Markov
-theory. The name "Terminal State" is PROPOSED pending the user's
-decision; if rejected, any replacement name keeps this anchor.
-The placeholder λ/κ/H_max are retired for this row. No novelty
-claimed.
+theory, named "Terminal State". The placeholder λ/κ/H_max are
+retired for this row. No novelty claimed.
+
+Grounded: standard automata theory (halt states); Kemeny & Snell (absorbing Markov chains)
 
 Verdict: ANCHOR

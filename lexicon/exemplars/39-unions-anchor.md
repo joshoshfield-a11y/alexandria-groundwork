@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Unions" is A ∪ B with inclusion–exclusion μ(A ∪ B) = μ(A) + μ(B) − μ(A ∩ B) — the overlap counted once. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the counting/overlay procedure above.
 
+Grounded: Kolmogorov probability axioms; standard set-theory / probability textbook.
+
 Verdict: ANCHOR

@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Cosmic Closure" is the topological closure of a signal's occupied spectrum; the hardening writes the definition, a worked harmonics example with bandwidth numbers, and the spectrum-analyzer procedure, claiming no novelty. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: Munkres, Topology (closure); ITU 99%-power occupied bandwidth
+
 Verdict: ANCHOR

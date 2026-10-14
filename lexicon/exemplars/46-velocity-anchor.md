@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Velocity" is v = dr/dt; the hardening writes the standard form, a worked 100 m example, and the Doppler/timing measurement procedure, claiming no novelty. The Galilean addition law u′ = u − v and its relativistic replacement are both standard; the operator as hardened sits at the classical level, which covers the Engine's stated use, and upgrades cleanly to the Lorentz form if relativistic regimes are ever required by future work. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: standard Newtonian kinematics
+
 Verdict: ANCHOR

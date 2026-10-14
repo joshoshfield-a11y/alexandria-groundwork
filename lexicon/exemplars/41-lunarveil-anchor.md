@@ -40,4 +40,6 @@ placeholder λ/κ/H_max are retired for this row; the operator's
 "application" is the state-retention accounting above. No novelty
 claimed.
 
+Grounded: Cover & Thomas (Shannon entropy); Landauer, IBM J. Res. Dev. 1961 (kT ln 2)
+
 Verdict: ANCHOR

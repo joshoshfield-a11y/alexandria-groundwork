@@ -44,6 +44,8 @@ novelty would have to live, or declines it.
    claim. The ANCHOR fallback (a) is recorded alongside so the
    operator is never less than honest.
 
+Grounded: Nielsen & Chuang, QCQI Ch. 2 (projective measurement, Lüders rule, Born rule)
+
 ## Verdict: DEFINE-proposed
 
 The mathematics is now written and computable; the novelty lives

@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Reflection Matrices" is R = I − 2uuᵀ: orthogonal, involutory, determinant −1 — the mirror in matrix form. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the matrix verification above.
 
+Grounded: Householder 1958; standard numerical-linear-algebra textbook (e.g. Golub & Van Loan — QR by Householder reflections).
+
 Verdict: ANCHOR

@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Summation" is finite discrete accumulation S_N = Σ x_n; the hardening writes the standard form, a worked numerical example, and the integrator-measurement procedure, claiming no novelty. Note the engine's running use: the accumulator is the discrete-time integrator with z-domain transfer function 1/(1−z⁻¹) — standard DSP, included so the signal-processing entry points at a checkable object. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: Oppenheim & Schafer, Discrete-Time Signal Processing (accumulator, 1/(1−z⁻¹))
+
 Verdict: ANCHOR

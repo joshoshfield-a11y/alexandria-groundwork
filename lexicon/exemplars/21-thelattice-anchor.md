@@ -42,4 +42,6 @@ placeholder λ/κ/H_max are retired for this row; the operator's
 "application" is the line-element computation above. No novelty
 claimed.
 
+Grounded: Carroll, Spacetime and Geometry Ch. 2 (metric tensor)
+
 Verdict: ANCHOR

@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Waveforms" is the Fourier description of a periodic signal: the time trace is the shape, the harmonic series is its content. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the measurement procedure above.
 
+Grounded: Fourier 1822; standard signals-and-systems textbook (e.g. Oppenheim & Willsky Ch. 3, Fourier series).
+
 Verdict: ANCHOR

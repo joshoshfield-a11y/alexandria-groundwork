@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Ignition" is threshold activation: Semenov tangency for thermal systems, unstable-fixed-point crossing for excitable ones. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the threshold measurement above.
 
+Grounded: Semenov 1928 / Frank-Kamenetskii (thermal explosion theory); standard excitable-media literature.
+
 Verdict: ANCHOR

@@ -42,5 +42,6 @@ universality theorems; any deviation from unitarity would be a
 claim about quantum mechanics itself (e.g. collapse models),
 not about this operator. Not proposed here — the operator stays
 a relabel.
+Grounded: quantum information theory — circuit model, Clifford+T universality, randomized benchmarking
 
 Verdict: ANCHOR

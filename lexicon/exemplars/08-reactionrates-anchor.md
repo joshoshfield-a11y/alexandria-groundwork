@@ -40,5 +40,6 @@ quantities in chemistry, and transition-state theory already
 absorbs the microscopic detail. A define would need a reaction
 whose elementary rate law violates mass action — with a
 stated falsifier — and none is on hand, so none is claimed.
+Grounded: standard chemical kinetics — Arrhenius rate law, first-order half-life (textbook)
 
 Verdict: ANCHOR

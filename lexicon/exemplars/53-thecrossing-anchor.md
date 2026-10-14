@@ -44,4 +44,6 @@ sum. The placeholder λ/κ/H_max are retired for this row; the
 operator's "application" is the propagator computation above.
 No novelty claimed.
 
+Grounded: Feynman, Rev. Mod. Phys. 20, 367 (1948); standard free-particle propagator
+
 Verdict: ANCHOR

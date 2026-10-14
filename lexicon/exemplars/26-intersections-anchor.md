@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Intersections" is the pullback (agreement set) of a cospan, specializing to ordinary set intersection; the hardening writes the categorical form, a worked finite example, and the counting procedure, claiming no novelty. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: Mac Lane, Categories for the Working Mathematician (pullbacks)
+
 Verdict: ANCHOR

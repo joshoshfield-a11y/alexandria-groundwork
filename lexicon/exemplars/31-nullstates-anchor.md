@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Null States" is ker(L) = {v : Lv = 0}, computed by solving Lx = 0 and measured as the SVD noise floor of a transfer matrix. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the kernel computation above.
 
+Grounded: standard linear-algebra textbook (rank–nullity theorem).
+
 Verdict: ANCHOR

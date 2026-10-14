@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Triadic Stability" is the triangle's rigidity: 3 nodes, 3 edges, 2n − 3 satisfied, zero flex modes — the reason three legs never wobble. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the rigidity-count procedure above.
 
+Grounded: Maxwell 1864 (counting rule); Laman 1970 (structural rigidity theory).
+
 Verdict: ANCHOR

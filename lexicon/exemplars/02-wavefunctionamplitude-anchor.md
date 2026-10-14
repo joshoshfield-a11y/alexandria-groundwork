@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Wavefunction Amplitude" is the complex amplitude ψ whose squared modulus gives observable statistics; the hardening writes the Born rule, a worked normalization example, and the measurement procedure, claiming no novelty. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: standard QM textbooks — Born rule (1926), L² normalization
+
 Verdict: ANCHOR

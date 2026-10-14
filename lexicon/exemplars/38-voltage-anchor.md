@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 Relabel admitted. "Voltage" is the electric potential difference V_ab; the hardening writes the standard form, a worked Ohm's-law example with current and power numbers, and the voltmeter procedure, claiming no novelty. Gauge freedom is the point: only differences V_ab are physical, and adding a constant to φ changes nothing measurable — the morphism reading (arrows between charge configurations labeled by energy cost) is exactly this gauge-invariant content, which is why voltmeters are always connected across two points. The placeholder λ/κ/H_max are retired for this row.
 
+Grounded: NIST SI Brochure (volt = J/C); Josephson voltage standard
+
 Verdict: ANCHOR

@@ -42,5 +42,6 @@ distinction via the partial trace.
 **Why not DEFINE:** the partial-trace formalism is standard;
 interpretations of the global state add no measurable content
 under this operator, so nothing falsifiable can be stated.
+Grounded: quantum information theory — partial trace, Bell-state reduction, quantum state tomography
 
 Verdict: ANCHOR

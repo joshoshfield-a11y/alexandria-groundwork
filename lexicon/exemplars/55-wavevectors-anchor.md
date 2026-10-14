@@ -20,4 +20,6 @@ Date: 2026-10-12.
 
 "Wave Vectors" is k with |k| = 2π/λ along the propagation direction — 1.257×10⁷ m⁻¹ for 500 nm light. Relabel admitted; no novelty claimed. The placeholder λ/κ/H_max are retired; the operator's application is the diffraction measurement above.
 
+Grounded: standard physics textbook (wave kinematics; de Broglie relation p = ℏk).
+
 Verdict: ANCHOR

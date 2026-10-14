@@ -15,7 +15,7 @@ Date: 2026-10-12.
    mechanical, or optical.
 2. **Computable form:** Q = 2π·(energy stored)/(energy lost per
    cycle) = ω₀/Δω = ω₀τ, with ω₀ the resonant frequency and τ the
-   amplitude decay time. Worked example: series LCR with
+   energy decay time. Worked example: series LCR with
    L = 10 μH, C = 100 pF → f₀ = 1/(2π√(LC)) ≈ 5.03 MHz;
    R = 2 Ω → Q = ω₀L/R ≈ 158.
 3. **Measurable quantity:** Q is dimensionless; linewidth Δf in
@@ -39,5 +39,6 @@ application is the Q/linewidth measurement above.
 differential equation, not a discovery. Higher-Q designs are
 engineering progress inside the same theory, and this operator
 adds no parameter to the damped oscillator.
+Grounded: damped harmonic oscillator / circuit theory — Q-factor definitions (Q = ω₀/Δω = ω₀τ_energy)
 
 Verdict: ANCHOR

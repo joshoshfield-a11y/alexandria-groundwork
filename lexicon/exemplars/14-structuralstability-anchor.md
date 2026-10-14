@@ -18,6 +18,8 @@ Date: 2026-10-12.
 
 ## Verdict: ANCHOR
 
-Relabel admitted. "Structural Stability" is the Andronov–Pontryagin property of a vector field; the hardening writes the definition, contrasting worked examples of stable and unstable equilibria, and the parameter-persistence measurement, claiming no novelty. A practical check: in a planar system, verifying that all equilibria are hyperbolic and all limit cycles have non-unit Floquet multipliers certifies stability via Peixoto's criteria — a finite, checkable condition. The placeholder λ/κ/H_max are retired for this row.
+Relabel admitted. "Structural Stability" is the Andronov–Pontryagin property of a vector field; the hardening writes the definition, contrasting worked examples of stable and unstable equilibria, and the parameter-persistence measurement, claiming no novelty. A practical check: in a planar system, verifying that all equilibria are hyperbolic, all limit cycles have non-unit Floquet multipliers, and no saddle connections exist certifies stability via Peixoto's full criterion — a finite, checkable condition. The placeholder λ/κ/H_max are retired for this row.
+
+Grounded: Guckenheimer & Holmes, Nonlinear Oscillations (structural stability, Peixoto's theorem)
 
 Verdict: ANCHOR

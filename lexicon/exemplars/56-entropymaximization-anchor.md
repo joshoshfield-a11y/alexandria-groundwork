@@ -40,5 +40,6 @@ application is the MaxEnt computation and entropy measurement.
 **Why not DEFINE:** MaxEnt is both a physical principle and an
 inference rule with known derivations; no departure from the
 Boltzmann form is asserted, and no falsifier is available.
+Grounded: statistical mechanics (Boltzmann/Gibbs); Jaynes' maximum-entropy principle
 
 Verdict: ANCHOR

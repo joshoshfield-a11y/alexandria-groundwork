@@ -41,5 +41,6 @@ track measurement.
 solved mechanics; no delta is conceivable within the operator's
 scope, and the quantum path-integral sense is a different
 theory.
+Grounded: Newtonian mechanics — projectile kinematics (textbook)
 
 Verdict: ANCHOR

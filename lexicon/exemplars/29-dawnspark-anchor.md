@@ -41,4 +41,6 @@ impulse-momentum relation of mechanics. The placeholder λ/κ/H_max
 are retired for this row; the operator's "application" is the
 impulse-response computation above. No novelty claimed.
 
+Grounded: Oppenheim & Schafer (LTI impulse response); standard mechanics (J = Δp)
+
 Verdict: ANCHOR
