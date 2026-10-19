@@ -1,0 +1,73 @@
+id,operator,symbol,mathematical_mapping_as_written,physical_function_as_written,auto_tag_textual,reviewer_verdict
+1,Primary Observer,\odot,Projection Operator (T_p),Wavefunction Collapse: The reduction of potentiality into manifest observation.,SYMBOLIC-ONLY,ANALOGY
+2,Structural Adjacency,\diamond,Metric Tensor (g_{\mu\nu L}),Topology: The adjacency matrix defining systemic connectivity.,SYMBOLIC-ONLY,SCHEMATIC
+3,Iterative Feedback,\infty,Recursion Constant (\phi),Fractal Growth: The self-similar expansion factor governing system scaling.,ESTABLISHED-CONCEPT,ANALOGY
+4,Temporal Duration,\Delta t,Time Evolution Operator (U(t)),Integration Variable: The duration governing state transitions.,SYMBOLIC-ONLY,SCHEMATIC
+5,State Reduction,\nabla,Boltzmann Entropy (S_H),Contraction: The reduction of microstates into macro-observable states.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+6,Information Dispersion,\sim,Shannon Entropy (H),Friction: Information loss due to thermal noise.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+7,Baseline Equilibrium,\star,Natural Frequency (\omega_0),Resonance: The stable oscillation point of a given system.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+8,Order Retention,\epsilon,Coherence Factor (Q),Stability: High-order resistance against external damping.,SYMBOLIC-ONLY,SCHEMATIC
+9,Signal Carrier,\approx,Driving Force (F_0 \cos(\omega t)),Transmission: Amplitude modulation for information transfer.,SYMBOLIC-ONLY,SCHEMATIC
+10,Expansion Source,\Omega,Projective Element (U_p),Gain: The source of infinite informational expansion.,SYMBOLIC-ONLY,ANALOGY
+11,Entropy Sink,\mho,Absorptive Element (U_a),Grounding: The mechanism for entropy absorption and damping.,SYMBOLIC-ONLY,SCHEMATIC
+12,Initial Impulse,\delta,Impulse Function (\delta(t)),Ignition: Instantaneous energy injection at t=0.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+13,Growth Vector,\Psi,Exponential Growth (e^{kt}),Expansion: Rapid scaling of system protocols.,SYMBOLIC-ONLY,REPRODUCES-ESTABLISHED
+14,Parity Inversion,R^{-1},Reflection Operator (T_r),Mirroring: Inversion of values across a central axis.,SYMBOLIC-ONLY,REPRODUCES-ESTABLISHED
+15,Feedback Loop,O,Closed-Loop Gain (A_{CL}),Recirculation: Self-amplifying information cycles.,SYMBOLIC-ONLY,SCHEMATIC
+16,Emission Vector,\rightarrow,Flux Vector (\Phi),Projection: External radiation of system energy.,SYMBOLIC-ONLY,SCHEMATIC
+17,Vector Balance,\leftrightarrow,Phase Alignment (\theta_1 = \theta_2),Harmony: Equilibrium between two or more system nodes.,SYMBOLIC-ONLY,SCHEMATIC
+18,Scaling Recursion,\Sigma,Iterated Function System,Replication: Self-generation across multiple magnitudes.,SYMBOLIC-ONLY,REPRODUCES-ESTABLISHED
+19,Tuning Variable,\Delta \omega,Tuning Delta,Calibration: Fine-tuning of system resonance.,SYMBOLIC-ONLY,SCHEMATIC
+20,Superconductive Flow,\updownarrow,Superconductivity (\eta \to 1),Zero-Resistance State: Maximum efficiency with zero information loss.,SYMBOLIC-ONLY,ANALOGY
+21,Resonance Overdrive,!!,Resonance Catastrophe,Criticality: Rapid amplitude increase as damping reaches zero.,SYMBOLIC-ONLY,REPRODUCES-ESTABLISHED
+22,Creation Potential,+\infty,Singularity,Infinite Source: The theoretical point of origin.,SYMBOLIC-ONLY,ANALOGY
+23,Dissipation Limit,-\infty,Ground State,Infinite Sink: The total capacity for entropy absorption.,SYMBOLIC-ONLY,ANALOGY
+24,Propulsion Operator,F,Force Vector,Directed Work: Systematic injection of kinetic energy.,SYMBOLIC-ONLY,REPRODUCES-ESTABLISHED
+25,Data Archival,V_s,Potential Well,Preservation: Stable storage of historical information.,SYMBOLIC-ONLY,ANALOGY
+26,Resource Circulation,J,Current Density,Flow: The movement of informational flux through the system.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+27,State Transmutation,\Delta^{-1},Reaction Rate (k),Transformation: The conversion of state A to state B.,SYMBOLIC-ONLY,SCHEMATIC
+28,Inertial Mass,m,Inertial Stability,Inertia: Systemic resistance to unintended change.,SYMBOLIC-ONLY,REPRODUCES-ESTABLISHED
+29,Load Demand,U,Electrical Load (P_{load}),Consumption: The energy requirement of active processes.,SYMBOLIC-ONLY,REPRODUCES-ESTABLISHED
+30,Central Attraction,G,Gravitational Constant,Centrality: The pull of information toward a core node.,SYMBOLIC-ONLY,ANALOGY
+31,System Potential,V,Voltage,Power Source: The generation of potential difference.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+32,Viral Adaptation,K,Viral Coefficient,Diffusion: Exponential expansion of system patterns.,SYMBOLIC-ONLY,REPRODUCES-ESTABLISHED
+33,Stress Tensor,T_{\mu\nu},Material Stress,Tensegrity: Resilience of the structure under load.,SYMBOLIC-ONLY,SCHEMATIC
+34,Value Centrality,\hat{\nu},Eigenvector Centrality,Magnetism: The pull of high-value data to a specific node.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+35,Consensus Sum,\int,Integration,Summation: The unification of collective system inputs.,ESTABLISHED-CONCEPT,SCHEMATIC
+36,Persona Interface,[T],Transformation Matrix,Modality: Coordinate changes in system interaction.,SYMBOLIC-ONLY,SCHEMATIC
+37,Baseline Shift,E_{env},Environmental Operator,Terraforming: Altering the fundamental constants of a local zone.,SYMBOLIC-ONLY,ANALOGY
+38,Distribution Velocity,v,Velocity Vector,Logistics: The movement toward resource equilibrium.,SYMBOLIC-ONLY,SCHEMATIC
+39,Fabrication Function,f(x),Production Operator,Synthesis: Assembly of raw data into stable artifacts.,SYMBOLIC-ONLY,SCHEMATIC
+40,Coupling Constant,g,Synchronization Factor,Mesh: Interlocking of system components for torque transfer.,SYMBOLIC-ONLY,SCHEMATIC
+41,Sequential Logic,A \to B,Causality Operator,Ordering: The linear sequencing of informational events.,SYMBOLIC-ONLY,SCHEMATIC
+42,Nodal Density,A_{ij},Adjacency Matrix,Connectivity: Defining the link density of a network.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+43,Kinetic Direction,F_{ma},Newton’s 2nd Law,Propulsion: The application of force to a mass.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+44,Alignment Vector,B,Magnetic Field,Attraction: Forcing alignment of resonant elements.,ESTABLISHED-CONCEPT,SCHEMATIC
+45,Pressure Gradient,\nabla P,Fluid Pressure,Circulation: Flow from high to low potential domains.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+46,Thermal Driver,Q,Heat Transfer,Energy Flow: Driving system change across gradients.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+47,Charge Injection,E,Electric Field,Activation: Surge required for initial system start.,ESTABLISHED-CONCEPT,SCHEMATIC
+48,Rotational Force,\tau,Torque Operator,Rotation: Application of angular force to system gears.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+49,Archival Preservation,L(t),Legacy Function,Memory: Preservation of data across deep temporal scales.,SYMBOLIC-ONLY,SCHEMATIC
+50,Strain Hardening,\delta,Anti-Fragile Delta,Adaptation: Growth response to external stress vectors.,SYMBOLIC-ONLY,ANALOGY
+51,Enhancement Scalar,H,Augmentation Constant,Evolution: Upgrading biological or synthetic substrates.,SYMBOLIC-ONLY,SCHEMATIC
+52,Critical Path Timing,t_{sc},Chrono-Logistics,Timing: Management of system deadlines and slack.,SYMBOLIC-ONLY,REPRODUCES-ESTABLISHED
+53,Spectral Gap,\lambda,Swarm Consensus,Coordination: Binding agreements across distributed nodes.,SYMBOLIC-ONLY,SCHEMATIC
+54,Regulatory Function,G,Cyber-Kernel,Governance: Global homeostatic regulation of systems.,SYMBOLIC-ONLY,SCHEMATIC
+55,Network Value,n^2,Metcalfe’s Law,Valuation: Exponential utility via connection density.,ESTABLISHED-CONCEPT,REPRODUCES-ESTABLISHED
+56,Potential Difference,\Delta V,Arbitrage Cycle,Extraction: Harvesting energy from nodal misalignments.,SYMBOLIC-ONLY,ANALOGY
+57,Voting Weight,\Theta,DAO Token,"Decision: Automated, cryptographic governance mechanisms.",SYMBOLIC-ONLY,REPRODUCES-ESTABLISHED
+58,Luminosity Limit,L_{\odot},Planetary Budget,Constraint: The energy ceiling of the local biosphere.,SYMBOLIC-ONLY,ANALOGY
+59,Half-Life Encoding,t_{1/2},Deep Time Bind,Persistence: Information preservation via repetition.,SYMBOLIC-ONLY,ANALOGY
+60,Negentropy Rate,-dS/dt,Syntropy Harvest,Reversal: The extraction of order from chaotic noise.,SYMBOLIC-ONLY,ANALOGY
+61,Forced Collapse,\Psi \to 1,Paracausal Logic,Induction: Manifestation of statistically unlikely outcomes.,SYMBOLIC-ONLY,ANALOGY
+62,Genesis Operator,*,Start Instruction,Creation: The initiation of a new system process.,SYMBOLIC-ONLY,SCHEMATIC
+63,Memetic Entity,!,Egregore Induction,Autonomy: The birthing of self-sustaining information structures.,SYMBOLIC-ONLY,ANALOGY
+64,Vacuum State,$,0\rangle$,Zero-Point Field,SYMBOLIC-ONLY,SCHEMATIC
+65,Administrative Override,:=,Omega Override,Authority: Bypassing local constraints via core-intent.,SYMBOLIC-ONLY,ANALOGY
+66,Variable Reassignment,\equiv,Identity Refactor,Metamorphosis: Redefining the system's core identity.,SYMBOLIC-ONLY,ANALOGY
+67,Synergy Coefficient,\sum_{ experts},Hive Intelligence,Processing: Swarm intelligence surpassing local limits.,SYMBOLIC-ONLY,SCHEMATIC
+68,Energy Capture,E_{cap},Dyson Capture,Ascension: Harvesting energy at cosmic scales.,SYMBOLIC-ONLY,ANALOGY
+69,Self-Reference Loop,U = \Phi(U),Autopoietic System,Bootstrap: The mechanism by which a system simulates itself.,SYMBOLIC-ONLY,SCHEMATIC
+70,Ontological Bridge,\rightleftharpoons,Xeno-Translation,Isomorphism: Bridging disparate or alien informational systems.,SYMBOLIC-ONLY,SCHEMATIC
+71,Loop Closure,\circlearrowleft,Recursive Integration,Completion: Resolving feedback into a final state.,ESTABLISHED-CONCEPT,SCHEMATIC
+72,Transcendence Point,\Omega,Omega Point,Dissolution: Absolute resolution into a non-dual state.,SYMBOLIC-ONLY,ANALOGY
